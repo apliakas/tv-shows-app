@@ -1,0 +1,31 @@
+html {
+  background-color: #0a1a33;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+a,
+button {
+  color: #fbbd41;
+  text-decoration: none;
+  font: inherit;
+}
+
+a:hover {
+  color: #e7464b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+  color: #fbbd41;
+}
